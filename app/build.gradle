@@ -37,4 +37,7 @@ dependencies {
     implementation files('<com.google.android.material.appbar.AppBarLayout')
 
 
+    //bottom navigation view
+    compile "com.android.support:design:29.0"
+
 }
